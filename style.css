@@ -1,0 +1,9 @@
+.section {
+    background-color: black;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.textcolor {
+    color: white;
+}
